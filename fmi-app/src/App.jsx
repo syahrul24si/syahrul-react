@@ -51,18 +51,25 @@
 // export default App;
 
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-import React from 'react';
-import BiodataDiri from './pertemuan-2/BiodataDiri';
+////////////////////////////////////////////// Pertemuan2 ////////////////////////////////////////////////////////////////////////////////
+// import React from 'react';
+// import BiodataDiri from './pertemuan-2/BiodataDiri';
+
+// function App() {
+//   return (
+//     <div>
+//       <BiodataDiri />
+//     </div>
+//   );
+// }
+
+// export default App;
+
+
+import Pertemuan4Latihan from "./pertemuan-4-latihan";
 
 function App() {
-  return (
-    <div>
-      <BiodataDiri />
-    </div>
-  );
+  return <Pertemuan4Latihan />;
 }
 
 export default App;
-
-
